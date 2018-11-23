@@ -2,7 +2,7 @@
 
 Game::Game()
 {
-	window = new RenderWindow(VideoMode(1024, 768), "Seagull | ESC to exit", Style::Titlebar | Style::Close);
+	window = new RenderWindow(VideoMode(1024, 650), "Seagull | ESC to exit", Style::Titlebar | Style::Close);
 	window->setVerticalSyncEnabled(true);
 	window->setMouseCursorGrabbed(true);
 	window->setMouseCursorVisible(false);
