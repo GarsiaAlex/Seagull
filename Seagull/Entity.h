@@ -1,6 +1,5 @@
 #include <SFML/Graphics.hpp>
 #include <list>
-#include <iostream>
 
 using namespace std;
 using namespace sf;
