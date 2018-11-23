@@ -1,10 +1,9 @@
 #include <SFML/Graphics.hpp>
-#include <vector>
-#include <iostream>
 #include <list>
+#include <iostream>
 
-using namespace sf;
 using namespace std;
+using namespace sf;
 
 #ifndef _ENTITY_
 #define _ENTITY_
